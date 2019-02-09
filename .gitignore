@@ -1,0 +1,15 @@
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# Environements
+venv/
+env/
+ENV/
+
+# Editor files
+.vscode/
+.idea/
+
+# Deleted files
+.DS_Store
