@@ -1,6 +1,9 @@
 # AWS Infrastructure Testing
 Scripts to test AWS services infrastructure. Testing that is to be conducted before setting up infrastructure.
 
+## Branching
+When adding a feature, branch off the develop branch by switching from `master` to `develop` and then creating a feature branch.
+
 ## Prerequisites
 - Python 3.x
 - Pip
