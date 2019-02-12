@@ -1,6 +1,6 @@
 import pytest
 from mock import MagicMock
-from infrastructure_testing import *
+from infrastructure_testing.main import *
 
 
 class TestMain:
