@@ -20,3 +20,13 @@ When adding a feature, branch off the develop branch by switching from `master` 
 
 ## Usage
 To be included...
+
+## Testing
+To run the pytests locally, enter the following command in a terminal:
+```$xslt
+> python -m pytest
+```
+To run a test coverage report, use this:
+```$xslt
+> python -m --cov-report html {package/file}
+```

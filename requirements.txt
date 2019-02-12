@@ -1,2 +1,4 @@
 boto3
 pytest
+mock
+pytest-cov
