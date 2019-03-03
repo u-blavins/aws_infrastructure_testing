@@ -28,5 +28,5 @@ To run the pytests locally, enter the following command in a terminal:
 ```
 To run a test coverage report, use this:
 ```$xslt
-> python -m --cov-report html {package/file}
+> python -m --cov-report html --cov {package/file}
 ```
