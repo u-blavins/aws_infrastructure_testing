@@ -2,6 +2,10 @@
 __pycache__/
 *.pyc
 
+# Test Coverage files
+.coverage
+htmlcov/
+
 # Environements
 venv/
 env/
